@@ -1,5 +1,5 @@
-###"Kropp" fitness-club landing page
+### "Kropp" fitness-club landing page
 
-Was created to train CSS/HTML skills
+# Was created to train CSS/HTML skills
 
 You can see at: https://konstantin-gromakovskiy.github.io/Kropp-fitness/
